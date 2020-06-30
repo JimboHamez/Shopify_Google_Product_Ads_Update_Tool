@@ -21,6 +21,7 @@ datetime
 
 
 Seup the following parameters to suit your shop
+
 SHOP_NAME = 'xxxxxxxxx.myshopify.com'                                           #Your Shopify shop name
 API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'                                    #API Key from your private APP setup within Shopify
 PASSWORD = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'                             #Password from your private APP
