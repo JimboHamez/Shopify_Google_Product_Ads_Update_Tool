@@ -45,5 +45,5 @@ included_destination = 'Shopping Ads,Display Ads,Surfaces across Google'        
 excluded_destination = 'Shopping Actions'<br/>
 product_limit=250                                                               #Number of products to lookup at a time Shopify sets the limit at 250, however a smaller number may make the script run faster<br/>
 
-<b>GOOGLE Product Taxomy</b><br/>
+<b>GOOGLE Product Category</b><br/>
 To assist with the mapping of Shopify Product_Types to Google Product Category, I have implemented a system to lookup a csv file that contains 2 columbs, the first contains the Shopify Product Code, the second contains the Google Product Category based on the Google product Taxomy located at https://support.google.com/merchants/answer/6324436?hl=en the mapping file location and name can be customise using the GOOGLE_PRODUCTCODE_CSV parameter above
